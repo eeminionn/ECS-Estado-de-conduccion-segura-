@@ -55,7 +55,7 @@ El objetivo es reducir el riesgo de accidentes mediante la integración de tecno
 
 ## 🛠️ Prototipo (en desarrollo)
 
-- Diseño CAD del módulo wearable (Fusion 360)
+- Diseño CAD del módulo fisico (Fusion 360)
 - Pruebas iniciales de ergonomía en terreno
 - Iteración de alertas pasivas (vibración / luz)
 - Modelos de CV en py + prototipo de asistente con IA 
@@ -63,4 +63,28 @@ El objetivo es reducir el riesgo de accidentes mediante la integración de tecno
 ---
 
 ## 🧭 Estructura del repositorio
+
+-Pendiente
+
+## 👥 Equipo
+
+**Actualemte el proyecto está siendo trabajado por EIRI (Equipo interdisciplinario de robotica e innovación) en la universidad del desarrollo (UDD)
+
+- **Emilio Abarca** – 
+- **Paloma González** – 
+- **Mariana Vercellino** –
+  
+
+---
+
+## 📌 Licencia
+
+Este repositorio es de uso académico. Todos los derechos sobre entrevistas y datos están protegidos y fueron obtenidos con consentimiento informado.
+
+---
+
+## 📫 Contacto
+
+¿Tienes preguntas o sugerencias? Escríbenos a:  
+📧 Eiri.udd@gmail.com
 
