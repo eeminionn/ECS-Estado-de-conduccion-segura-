@@ -1,0 +1,52 @@
+.custom-navbar {
+    background-color: #000 !important;
+  }
+  
+  .custom-navbar .navbar-brand,
+  .custom-navbar .nav-link {
+    color: #fff !important;
+  }
+
+  .custom-navbar .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='white' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+  }
+  
+/*
+  .custom-bg{ 
+
+    background-color: darkviolet;
+  }
+
+  .custom-bg{ 
+
+    background-color: darkviolet !important;
+  }
+*/
+  .custom-bg-1 {
+    background-color: #222222 !important;
+    border-color: #222222 !important;
+  }
+  
+  .custom-bg-2 {
+    background-color: #666666 !important;
+    border-color: #666666 !important;
+  }
+  
+  .custom-bg-3 {
+    background-color: #888888 !important;
+    border-color: #888888 !important;
+  }
+
+  .alert-info {
+    background-color: #ffffff !important;  
+    color: #333 !important;                
+    border-color: #000000 !important;      
+  }
+
+  .fondo-imagen {
+    background-image: url('/static/imgs/arduino.jpg');  
+    background-size: cover;       /* Ajusta la imagen para cubrir todo el div */
+    background-position: center;  /* Centra la imagen */
+    background-repeat: no-repeat; /* No repetir imagen */
+    color: rgb(0, 0, 0);                 /* Color texta */
+  }
