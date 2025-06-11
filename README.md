@@ -68,9 +68,9 @@ El objetivo es reducir el riesgo de accidentes mediante la integración de tecno
 
 ## 👥 Equipo
 
-**Actualemte el proyecto está siendo trabajado por EIRI (Equipo interdisciplinario de robotica e innovación) en la universidad del desarrollo (UDD)
+**Actualmente el proyecto está siendo desarrollado por EIRI (Equipo Interdisciplinario de Robótica e Innovación) en la Universidad del Desarrollo (UDD).**
 
-- **Emilio Abarca** – 
+- **[Emilio Abarca](https://github.com/eeminionn)**
 - **Paloma González** – 
 - **Mariana Vercellino** –
   
